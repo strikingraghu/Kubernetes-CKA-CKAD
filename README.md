@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
-### Curriculum
+### K8s Curriculum
 
 Open Source Curriculum for CNCF Certification Courses
 
